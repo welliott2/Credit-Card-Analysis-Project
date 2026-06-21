@@ -2,7 +2,7 @@
 
 ## Background
 
-At my job, I work with credit card transactional data (but without any demographic
+At my current job, I am in charge of a credit card analytics project (but without any demographic
 context attached to it). This made me curious about a question I couldn't easily test
 at work: **once you already know how someone has been paying their bills, does knowing
 who they are (age, education, marital status, sex) tell you anything more about
