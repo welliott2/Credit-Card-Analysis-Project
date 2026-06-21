@@ -34,7 +34,7 @@ decisions:
   duly"), but the data contains a -2 value (2,759 records in PAY_0 alone) with no
   official definition. Rather than merge -2 into -1 (which would assume it means the
   same thing as "paid on time"), I kept it as its own category, since it's plausibly
-  a different status entirely (e.g. no balance that month) and conflating the two
+  a different status entirely (no balance that month) and conflating the two
   could obscure a real difference in behavior.
 
 ## Findings
@@ -59,7 +59,7 @@ demographic differences persist.
 
 **A caution on the combined breakdown**: once you slice by payment status *and*
 education simultaneously, several resulting groups are very small (some with only
-1-3 accounts). Those cells produce extreme-looking rates (e.g. 100% default on a
+1-3 accounts). Those cells produce extreme-looking rates (100% default on a
 single account) that aren't reliable patterns, just small-sample noise. Worth
 keeping in mind when reading the detailed table in the analysis output.
 
