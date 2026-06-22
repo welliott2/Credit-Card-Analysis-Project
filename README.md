@@ -49,7 +49,6 @@ single signal in the dataset.
 - By marital status: 20.9% (single) to 26.0% (other)
 - By sex: 20.8% (female) to 24.2% (male)
 
-These spreads are real, but an order of magnitude smaller than the behavioral effect.
 
 **Demographics still matter *within* a given behavior group.** Looking only at
 accounts that paid on time last month (PAY_0 = 0, the largest single group at 14,737
